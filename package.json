@@ -1,0 +1,16 @@
+{
+  "name": "static_node_and_express_site",
+  "version": "1.0.0",
+  "description": "My sixth project submission for the Full Stack JavaScript Techdegree.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "author": "Alan McClenaghan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}

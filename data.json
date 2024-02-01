@@ -1,0 +1,64 @@
+{
+    "projects" : [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Using basic JavaScript syntax and data structures to build a Random Quote Generator to randomly display selected quotes.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://alanmcclenaghan.github.io/My-Random-Quote-Generator/",
+            "github_link": "https://github.com/AlanMcClenaghan/My-Random-Quote-Generator",
+            "image_urls": [
+                "/static/images/random-quotes-large.png",
+                "/static/images/random-quotes-medium.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Using paginataion and filtering to display a large amount of data in manageable chunks.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://alanmcclenaghan.github.io/Data-pagination-and-Filtering/",
+            "github_link": "https://github.com/AlanMcClenaghan/Data-pagination-and-Filtering",
+            "image_urls": [
+                "/static/images/data-pagination-large.png",
+                "/static/images/data-pagination-medium.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhancing a form so that it is engaging, interactive, and easy to use.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://alanmcclenaghan.github.io/Interactive-Form/",
+            "github_link": "https://github.com/AlanMcClenaghan/Interactive-Form",
+            "image_urls": [
+                "/static/images/interactive-form-large.png",
+                "/static/images/interactive-form-medium.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "Using JavaScript and OOP (Object-Oriented Programming) to create a Phrase Hunter game in which a player tries to guess the random, hidden phrase.",
+            "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+            "live_link": "https://alanmcclenaghan.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/AlanMcClenaghan/OOP-Game-Show-App",
+            "image_urls": [
+                "/static/images/phrase-hunter-large.png",
+                "/static/images/phrase-hunter-medium.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Using JavaScript to create an employee directory by communicating with a third-party API (Application Programming Interface).",
+            "technologies": ["HTML", "CSS", "JavaScript", "AJAX", "Fetch and Public APIs"],
+            "live_link": "https://alanmcclenaghan.github.io/public-api-requests/",
+            "github_link": "https://github.com/AlanMcClenaghan/My-Random-Quote-Generator",
+            "image_urls": [
+                "/static/images/public-api-requests-large.png",
+                "/static/images/public-api-requests-medium.png"
+            ]
+        }
+    ]
+}
