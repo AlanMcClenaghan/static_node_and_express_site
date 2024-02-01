@@ -51,6 +51,7 @@ Handle errors
 app.use((err, req, res, next ) => {
     res.locals.error = err;
     res.status(err.status);
+    console.log(`Error: ${err.status} - ${err.message}`);
     res.render('page-not-found');
 });
 
@@ -68,6 +69,7 @@ app.use((req, res, next ) => {
         err.message = "Something went wrong with the server";
         res.locals.error = err;
         res.status(err.status);
+        console.log(`Error: ${err.status} - ${err.message}`);
         res.render('error', err);
     }
 });
